@@ -1,1 +1,1 @@
-# Coursework for NLP CSE 4022
+# Coursework for CSE 4022 (NLP)
