@@ -1,1 +1,1 @@
-# Coursework for CSE 4022 (NLP)
+# Coursework for CSE 4022 (Natural Language Processing)
